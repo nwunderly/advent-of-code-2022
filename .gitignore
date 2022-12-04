@@ -20,3 +20,6 @@ __pycache__/
 # misc
 .env
 *.env
+
+# Added by cargo
+target/
